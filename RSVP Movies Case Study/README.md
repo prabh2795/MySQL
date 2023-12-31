@@ -6,4 +6,3 @@ The production company wants to plan their every move analytically based on data
 You have been provided with the data of the movies that have been released in the past three years. 
 You have to analyse the data set and draw meaningful insights that can help them start their new project. 
 You are a data analyst and an SQL expert. You have to use SQL to analyse the given data and give recommendations to RSVP Movies based on the insights. 
-For your convenience, the entire analytics process has been divided into four segments, where each segment leads to significant insights from different combinations of tables.
